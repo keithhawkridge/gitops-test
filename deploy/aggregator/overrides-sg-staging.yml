@@ -1,7 +1,8 @@
+---
 aggregator:
   name: aggregator
   image:
-    tag: release-1.114.0
+    tag: dummy-version-2.0
   other: blah
 ingress:
   url: blah
