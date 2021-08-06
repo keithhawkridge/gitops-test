@@ -1,4 +1,4 @@
-controller:
-  fieldone: blah
-  version: 1.0.0
-  fieldthree: lbah
+aggregator:
+  name: aggregator
+  image:
+    tag: release-1.114.0
