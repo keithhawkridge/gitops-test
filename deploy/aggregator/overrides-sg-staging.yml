@@ -2,7 +2,7 @@
 aggregator:
   name: aggregator
   image:
-    tag: dummy-version-2.0
+    tag: keith.test.117.release
   other: blah
 ingress:
   url: blah
